@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: org.dionthorn
+Main-Class: org.dionthorn.lifesimrpg.App

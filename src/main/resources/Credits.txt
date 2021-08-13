@@ -1,0 +1,2 @@
+For first and last name data:
+https://github.com/smashew/NameDatabases
