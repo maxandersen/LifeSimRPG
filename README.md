@@ -6,3 +6,8 @@ https://www.positech.co.uk/kudos2/
 
 GameBiz series
 http://www.veloci.dk/gamebiz/GB3.htm
+
+CREDITS:
+
+For first and last name data:
+https://github.com/smashew/NameDatabases
